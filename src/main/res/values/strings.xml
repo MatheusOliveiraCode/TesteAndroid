@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">please</string>
+    <string name="action_settings">Configurações</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primeira Tela</string>
+    <string name="second_fragment_label">Tela auxiliar</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+    <string name="age_label">idade:</string>
+    <string name="name"> Matheus de Oliveira </string>
+    <string name="idade">20</string>
+    <string name="hello_first_fragment">Primeira Tela do Programa</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
